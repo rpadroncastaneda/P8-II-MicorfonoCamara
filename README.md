@@ -68,7 +68,7 @@ Pasos clave:
 
 ### Parte 2: Captura con cámara web
 
-![Vista previa en pantalla](img/2.gif)
+![Vista previa en pantalla](img/2-n.gif)
 
 ```csharp
 using System.Collections;
